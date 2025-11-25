@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/assets/github-header-banner.png" width="100%">
+</p>
+
 # 🌐 Web Application Programming
 
 This repository contains my work from the **Web Application Programming** module, focusing on practical full-stack development using **HTML, CSS, JavaScript, PHP, and MySQL**. 
