@@ -1,6 +1,6 @@
-# 🎵 TheArtists – Full-Stack Music Streaming Web Application
+# 🎵 Meloverse – Full-Stack Music Streaming Web Application
 
-**TheArtists** is a full-stack music streaming platform inspired by modern services such as Spotify.  
+**Meloverse** is a full-stack music streaming platform inspired by modern services such as Spotify.  
 The system lets users explore artists, stream songs, manage playlists, claim daily points, and browse merchandise — all powered by a complete backend built with **PHP + MySQL**.
 
 ---
