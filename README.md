@@ -36,7 +36,7 @@ The course strengthened my ability to build end-to-end web systems, handle backe
 
 ## 📌 Projects in This Repository
 
-### 🎵 **1. TheArtists – Full-Stack Music Streaming Web Application**  
+### 🎵 **1. Meloverse – Full-Stack Music Streaming Web Application**  
 A complete music streaming website with:
 - User accounts  
 - Playlists, queue, liked songs  
