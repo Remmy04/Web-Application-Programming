@@ -46,4 +46,4 @@ The system lets users explore artists, stream songs, manage playlists, claim dai
 
 ---
 
-🎶 *Thank you for checking out TheArtists project!*  
+🎶 *Thank you for checking out the Meloverse project!*  
